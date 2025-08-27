@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+.container{
+     background-color: #d56262;
+  color: white;
+  gap:  100px;
+}
+
+.asosiy {
+  padding: 30px;
+  text-align: center;
+ 
+
+  
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.sariq {
+  color: yellow;
+}
+
+.havolalar {
+  margin: 10px 0 30px;
+ 
+}
+
+.havolalar a {
+  margin: 0 10px;
+  color: #00f;
+}
+
+.bloklar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 80px;
+}
+
+.blok {
+  background-color: black;
+  width: 250px;
+  height: 290px;
+  text-align: center;
+
+}
+
+.blok img {
+  width: 100%;
+  height: 150px;
+}
+
+.blok h2 {
+  font-size: 20px;
+  color: white;
+  margin: 10px 0 5px;
+}
+
+.blok p {
+  font-size: 14px;
+  padding: 0 10px 15px;
+  color: white;
+}
+
+.Logo{
+    color: black;
+    font-size: 30px;
+}
